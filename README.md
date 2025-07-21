@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contenido de este repositorio
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
@@ -73,3 +74,8 @@ Aquí es donde están todos los archivos de esta carpeta y donde la clase comenz
 Puedes verla [aquí](/Paquete/).
 
 Prueba pull requests
+=======
+# MiPrimerRepo
+
+Mi primera contribucion para GitHub gjf
+>>>>>>> 246aca2 (Mi primer COMMIT local)
